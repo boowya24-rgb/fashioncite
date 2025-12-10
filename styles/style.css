@@ -178,3 +178,13 @@ footer {
 
 }
 
+/* Center text only (no image changes) */
+body {
+  text-align: center;
+}
+
+/* Make sure images stay normal */
+img {
+  display: inline-block;
+}
+
